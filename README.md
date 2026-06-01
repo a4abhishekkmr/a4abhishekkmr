@@ -77,9 +77,5 @@ Trailhead: (https://www.salesforce.com/trailblazer/a4abhishekkmr)
 
 ![](https://komarev.com/ghpvc/?username=a4abhishekkmr&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a4abhishekkmr&show_icons=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a4abhishekkmr)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a4abhishekkmr&layout=compact)
 
